@@ -1,0 +1,18 @@
+.primary{
+    color: orange;
+}
+ 
+.bordure {
+    margin: 5px;
+    border: 3px solid  black;
+    border-radius: 10px;
+}
+.diana{
+    color:pink;
+    background-color: darkslategray;
+}
+.autreNom{
+    color: #2e006c;
+    background-color: silver;
+}
+
